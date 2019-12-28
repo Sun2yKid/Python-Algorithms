@@ -1,6 +1,7 @@
 """
 Merge Sort
-time complexity: O(nlogn)
+time complexity:  O(nlogn)
+space complexity: O(n)
 """
 
 
