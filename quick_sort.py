@@ -3,8 +3,10 @@ Quick Sort
 average time  complexity: O(nlogn)
 average space complexity: O(logn)
 """
+from timer import timer
 
 
+@timer
 def quick_sort(array):
     if len(array) < 2:
         return array
