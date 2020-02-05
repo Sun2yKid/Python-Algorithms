@@ -1,3 +1,7 @@
+"""
+前缀树，字典树
+"""
+
 from collections import defaultdict
 
 
