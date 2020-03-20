@@ -55,3 +55,7 @@ word_2 = trie_obj.search('word')
 print(word_2)
 word_3 = trie_obj.startswith('hell')
 print(word_3)
+
+
+import string
+string.ascii_uppercase
