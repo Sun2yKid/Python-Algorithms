@@ -114,4 +114,12 @@ print(m)
 get_circle(m)
 
 
-enumerate
+import queue
+q = queue.LifoQueue
+pq = queue.PriorityQueue
+
+import string
+l = 'We are happy.'
+l.replace(' ', '%20')
+l.count(' ')
+

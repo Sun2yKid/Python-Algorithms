@@ -23,6 +23,9 @@ n的高(height)是从n到一片树叶的最长路径的长。一棵树的高等�
 
 树节点的声明在结构上类似于双链表的声明，一个节点就是由Key(关键字)信息加上两个指向其他节点的指针组成。
 
+> 具有N个节点的每一棵二叉树都将需要N+1个NULL指针。
+
+**二叉树节点声明**
 ``` C
 typedef struct TreeNode *PtrToNode;
 typedef struct PtrToNode Tree;
@@ -57,7 +60,7 @@ PrintTree(SearchTree T)
     if(T != NULL)
     {
         PrintTree(T->Left);
-        PrintTree(T->Element);
+        PrintElement(T->Element);
         PrintTree(T->Right);
     }
 }
