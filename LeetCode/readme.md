@@ -14,7 +14,13 @@
 
 [91. Decode Ways.ipynb](91.%20Decode%20Ways.ipynb)
 
+## 思维逻辑
+
+[556. Next Greater Element III.ipynb](556.%20Next%20Greater%20Element%20III.ipynb)
+
 -----
+
+
 
 
 
