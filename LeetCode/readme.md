@@ -5,6 +5,12 @@
 ## 栈
 [71. Simplify Path.ipynb](71.%20Simplify%20Path.ipynb)
 
+## 链表
+
+[141. Linked List Cycle.ipynb](141.%20Linked%20List%20Cycle.ipynb)
+
+[142. Linked List Cycle II.ipynb](142.%20Linked%20List%20Cycle%20II.ipynb)
+
 ## 建模思维
 
 [168. Excel Sheet Column Title.ipynb](168.%20Excel%20Sheet%20Column%20Title.ipynb)
@@ -19,9 +25,6 @@
 [556. Next Greater Element III.ipynb](556.%20Next%20Greater%20Element%20III.ipynb)
 
 -----
-
-
-
 
 
 
