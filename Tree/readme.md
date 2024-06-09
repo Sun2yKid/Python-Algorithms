@@ -81,3 +81,15 @@ Height(Tree T)
 
 ## 参考
 《数据结构与算法分析---C语言描述》 by [美] Mark Allen Weiss
+
+
+## note
+满二叉树，full binary tree, 叶子节点都在同一层级，且非叶子节点都存在左右孩子
+
+完全二叉树，complete binary tree，
+
+二叉树的自平衡，红黑树，AVL树，树堆等
+
+二叉堆，binary heap，是一个完全二叉树，complete binary tree
+二叉堆的所有结点都存储在数组中
+二叉堆是实现堆排序和有限队列的基础
